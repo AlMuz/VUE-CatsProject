@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <h1>Home</h1>
+    <h1>Search</h1>
   </b-container>
 </template>
 
@@ -8,3 +8,6 @@
 export default {
 }
 </script>
+
+<style lang="css" scoped>
+</style>
