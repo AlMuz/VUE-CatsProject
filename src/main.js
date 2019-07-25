@@ -3,8 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import BootstrapVue from 'bootstrap-vue'
+import InfiniteLoading from 'vue-infinite-loading';
 
 Vue.use(BootstrapVue)
+Vue.use(InfiniteLoading);
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'

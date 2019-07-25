@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="dark" variant="dark" fixed>
+    <b-navbar toggleable="lg" type="dark" variant="dark" fixed class="mb-5">
       <router-link to="/" class="navbar-brand">Vue Cats</router-link>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
